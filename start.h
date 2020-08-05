@@ -1,0 +1,6 @@
+#ifndef TEST_SHARED_LIB_START_H
+#define TEST_SHARED_LIB_START_H
+
+void start();
+
+#endif //TEST_SHARED_LIB_START_H
